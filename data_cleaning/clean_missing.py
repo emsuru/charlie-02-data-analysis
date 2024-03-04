@@ -40,12 +40,6 @@ def clean_missing_vals(df):
     print("Shape of DataFrame after removing columns with >50% missing values:", df_cleaned.shape)
     #print name of columns that remained after removing columns with >50% missing values
     print("Columns that remained after removing columns with >50% missing values:", df_cleaned.columns)
-    # Remove custom columns from the data set (property urls, saletype are irrelevant to analysis)
-    df_cleaned_cols = df_cleaned.drop(columns=['Property url', 'SaleType'])
-    # Save the cleaned DataFrame to a new CSV file
-    df_cleaned_cols.to_csv('data/cleaned/bear_cleaned_extracols.csv', index=False)
-    print("Shape of DataFrame after removing irrelevant columns:", df_cleaned_cols.shape)
-    print("Columns that remained after removing irrelevant columns:", df_cleaned_cols.columns)
 
 
 clean_missing_vals(df_bear)
