@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 charlie-02/
+venv-charlie-02/
 .env
 .venv
 env/
