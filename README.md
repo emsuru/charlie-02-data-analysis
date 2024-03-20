@@ -1,5 +1,4 @@
-# Immo Charlie Phase 02
-# Data Analysis & Visualisation
+# Immo Charlie Phase 02: Data Analysis & Visualisation
 
 ## 📖 Description
 
