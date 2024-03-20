@@ -2,7 +2,7 @@
 
 ## 📖 Description
 
-This is the data analysis phase of a larger project to develop a machine learning model for price prediction.Have a look at [phase 1 (data collection)](https://github.com/emsuru/charlie-01-data-collection) and [phase 3 (ML model development)](https://github.com/emsuru/charlie-03-ML-model-development). Phase 4 (deployment) is not yet started.
+This is the data analysis phase of a larger project to develop a machine learning model for price prediction. Have a look at [phase 1 (data collection)](https://github.com/emsuru/charlie-01-data-collection) and [phase 3 (ML model development)](https://github.com/emsuru/charlie-03-ML-model-development). Phase 4 (deployment) is not yet started.
 
 Here in phase 2 I perform data exploration, cleanup and analysis starting from the raw dat set collected in phase #1 of the project.
 
