@@ -3,28 +3,39 @@
 ## 📖 Description
 
 This is the data analysis phase (phase #2 out of 4) of a larger project to develop a machine learning model for price prediction.
-Here I perform data exploration, cleanup and analysis starting from the raw dat set collected in phase #1 of the project.
+Have a look at phase 1 (data collection) and phase 3 (ML model development). Phase 4 (deployment) is not yet stared.
+
+Here in phase 2 I perform data exploration, cleanup and analysis starting from the raw dat set collected in phase #1 of the project.
 
 The result is a Jupyter Notebook containing my process. Some of the dataviz graphs generated are exported and included in a
-mock customer presentation. 
+mock customer presentation.
 
-## 🛠️ Features
+## 🛠️ Visuals
 
-- ..
-- .. 
-- .. 
+![graph](graphs/graph-1.png)
+
+![graph](graphs/graph-2.png)
+
+![graph](graphs/graph-3.png)
+
+![graph](graphs/graph-4.png)
+
+![graph](graphs/graph-5.png)
+
+![graph](graphs/PricePerPRovince_BOX.png)
+
 
 ## 📂 Project background & timeline
 
 This project was done over the course of 3 days in February 2024.
-It is my personal version of a team project I was involved in during the AI Bootcamp in Ghent, Belgium, 2024. 
+It is my personal version of a team project I was involved in during the AI Bootcamp in Ghent, Belgium, 2024.
 
 Its main goals were to practice:
 
-- ...
-- ...
-- ...
-- ...
+- exploratory data analysis
+- data cleaning
+- data visualisation
+- data presentation
 
 ## ⚠️ Warning
 
