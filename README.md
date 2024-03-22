@@ -2,12 +2,14 @@
 
 ## 📖 Description
 
-This is the data analysis phase of a larger project to develop a machine learning model for price prediction.
+This is phase 2 of a larger project where I develop an ML pipeline for property price prediction.
 Have a look at phase 1 (data collection) [here](https://github.com/emsuru/charlie-01-data-collection) and phase 3 (ML model development) [here](https://github.com/emsuru/charlie-03-ML-model-development). Phase 4 (deployment) is not yet started.
 
-In phase 2 I have used the data collected in the previous phase to clean and explore. The result is in three separate notebooks.
+The deliverables for this phase:
+- EDA notebooks
+- mock customer presentation
 
-Some of the dataviz graphs generated in the exploration were exported and included in a mock customer presentation.
+The most challenging part for me was accepting just **how much** of EDA is iterative. It was especially hard to accept that I may discover something towards the end of the exploration, or at a very advanced phase, which will require me to redo everything once more.
 
 ## Visuals
 
@@ -26,6 +28,13 @@ Its main goals were to practice:
 - data cleaning & preparation
 - data visualisation
 - data storytelling & presentation
+
+## Project extension
+
+If I have time to return to this, I'd like to:
+
+- use a better, clearer structure, where I split the investigation into structure, quality & content and for each section look at categorical variables and numerical variables separately and in a clear order (e.g. ordinal then nominal, discrete then continuous)
+- have a different version of the exploration where I try fancier libraries and dataviz tools (PyGWalker, Bokeh, Streamlit, Dash)
 
 ## ⚠️ Warning
 
