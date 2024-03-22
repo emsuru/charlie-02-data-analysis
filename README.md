@@ -6,14 +6,14 @@ This is the data analysis phase of a larger project to develop a machine learnin
 Have a look at phase 1 (data collection) [here](https://github.com/emsuru/charlie-01-data-collection) and phase 3 (ML model development) [here](https://github.com/emsuru/charlie-03-ML-model-development). Phase 4 (deployment) is not yet started.
 
 In phase 2 I have used the data collected in the previous phase to clean and explore. The result is in three separate notebooks.
-Some of the most interesting dataviz graphs generated in the exploration were exported and included in a mock customer presentation. That slide deck is not included in this repo.
+
+Some of the dataviz graphs generated in the exploration were exported and included in a mock customer presentation.
 
 ## Visuals
 
+![graph](graphs/median_prices_by_property_category_and_region.png)
 
-![graph](median_prices_by_property_category_and_region.png)
-
-![graph](proportion_of_properties_by_price_segment.png)
+![graph](graphs/proportion_of_properties_by_price_segment.png)
 
 
 ## 📂 Project background & timeline
@@ -23,9 +23,9 @@ This project was done over the course of one week in February 2024.
 Its main goals were to practice:
 
 - exploratory data analysis (EDA)
-- data cleaning
+- data cleaning & preparation
 - data visualisation
-- data presentation
+- data storytelling & presentation
 
 ## ⚠️ Warning
 
