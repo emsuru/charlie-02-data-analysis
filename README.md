@@ -11,6 +11,8 @@ The deliverables for this phase:
 
 The most challenging part for me was accepting just **how much** of EDA is iterative. It was especially hard to accept that I may discover something towards the end of the exploration, or at a very advanced phase, which will require me to redo everything once more.
 
+To check out my work, open any of the three EDA Jupyter notebooks. 
+
 ## Visuals
 
 ![graph](graphs/median_prices_by_property_category_and_region.png)
