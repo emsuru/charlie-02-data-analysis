@@ -1,28 +1,27 @@
 # Immo Charlie Phase 02: Data Analysis & Visualisation
 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ## 📖 Description
 
-This is phase 2 of a larger project where I develop an ML pipeline for property price prediction.
-Have a look at phase 1 (data collection) [here](https://github.com/emsuru/charlie-01-data-collection) and phase 3 (ML model development) [here](https://github.com/emsuru/charlie-03-ML-model-development). Phase 4 (deployment) is not yet started.
+This Data Explorer is phase 2 of a larger project where I develop an ML pipeline for property price prediction.
 
-The deliverables for this phase:
-- EDA notebooks
-- mock customer presentation
+Have a look at phase 1 (data collection) [here](https://github.com/emsuru/charlie-01-data-collection) and phase 3 (ML model development) [here](https://github.com/emsuru/charlie-03-ML-model-development). 
 
-The most challenging part for me was accepting just **how much** of EDA is iterative. It was especially hard to accept that I may discover something towards the end of the exploration, or at a very advanced phase, which will require me to redo everything once more.
 
-To check out my work, open any of the three EDA Jupyter notebooks. 
+## 🌺 Features
 
-## Visuals
+- univariate EDA (Jupyter notebook)
+- multivariate EDA (Jupyter notebook)
 
 ![graph](graphs/median_prices_by_property_category_and_region.png)
 
 ![graph](graphs/proportion_of_properties_by_price_segment.png)
 
 
-## 📂 Project background & timeline
+## ⏱️ Background & timeline
 
-This project was done over the course of one week in February 2024.
+This project was done over the course of one week in February 2024 in Ghent (Belgium), during the AI Bootcamp by Becode.
 
 Its main goals were to practice:
 
@@ -31,7 +30,12 @@ Its main goals were to practice:
 - data visualisation
 - data storytelling & presentation
 
-## Project extension
+
+The most challenging part for me with this project was coming to terms with just **how much** of EDA is iterative (it is commong to discover something at an advanced exploration phase that makes you return to step one).
+
+To check out my exploratory work, open any of the three EDA Jupyter notebooks. 
+
+## 🚀 Extensions
 
 If I have time to return to this, I'd like to:
 
@@ -44,11 +48,10 @@ All my code is currently heavily:
 
 - docstringed
 - commented
-
-.. and sometimes typed.
+- .. and sometimes typed.
 
 This is to help me learn and to make my sessions with our training coach more efficient.
 
-## Thank you for visiting my project page!
+## 🤗 Thank you for visiting my project page!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mirunasuru/) 🤍
